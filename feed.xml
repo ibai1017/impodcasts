@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Study Notes</title>
+    <link>https://ibai1017.github.io/impodcasts/</link>
+    <language>en-us</language>
+    <description>Two-host audio walkthroughs of internal medicine topics, for personal study.</description>
+    <itunes:author>Study Notes</itunes:author>
+    <itunes:summary>Two-host audio walkthroughs of internal medicine topics, for personal study.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://ibai1017.github.io/impodcasts/cover.png"/>
+    <itunes:category text="Education"/>
+    <itunes:owner>
+      <itunes:name>Study Notes</itunes:name>
+    </itunes:owner>
+    <image>
+      <url>https://ibai1017.github.io/impodcasts/cover.png</url>
+      <title>Study Notes</title>
+      <link>https://ibai1017.github.io/impodcasts/</link>
+    </image>
+    <atom:link href="https://ibai1017.github.io/impodcasts/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Endocrinology</title>
+      <description>Hypercalcemia and the parathyroid workup, MEN syndromes, hyper- and hypothyroidism through thyroid storm and myxedema coma, the 2023 osteoporosis guideline, diabetes end to end, adrenal and pituitary, lipids, and bonus topics.</description>
+      <itunes:summary>Hypercalcemia, thyroid, bone, diabetes, adrenal and pituitary, lipids, and bonus topics.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Endocrinology_2026_Podcast.mp3" length="25184301" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-endocrinology</guid>
+      <pubDate>Fri, 12 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1573</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+  </channel>
+</rss>
