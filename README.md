@@ -1,2 +1,2 @@
 # impodcasts
-imr podcasts
+im podcasts
