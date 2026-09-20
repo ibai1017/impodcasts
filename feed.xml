@@ -25,13 +25,61 @@
     <atom:link href="https://ibai1017.github.io/impodcasts/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Infectious Diseases</title>
+      <description>A tour of the organ systems: CNS infections and meningitis, infective endocarditis, pneumonia and influenza and COVID, infectious diarrhea and C. difficile, intra-abdominal infections, UTIs, sexually transmitted infections, skin and soft tissue including necrotizing fasciitis, bone and joint infections, HIV, tuberculosis, and the febrile returning traveler and malaria.</description>
+      <itunes:summary>Meningitis, endocarditis, pneumonia, diarrhea, UTI, STIs, skin/soft tissue, bone/joint, HIV, TB, and travel.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Infectious_Diseases_2026_Podcast.mp3" length="16433709" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-infectious-diseases</guid>
+      <pubDate>Sat, 20 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1027</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Hematology</title>
+      <description>Malignant hematology (acute leukemia and APL, the myeloproliferative neoplasms, MDS, aplastic anemia and PNH, lymphomas and CLL, and plasma cell disorders) and classical hematology (thrombosis and anticoagulation, bleeding disorders, ITP, the hemolytic anemias, TTP and HIT, transfusion medicine, and sickle cell disease).</description>
+      <itunes:summary>Leukemias, MPNs, lymphoma, myeloma, thrombosis, bleeding, TTP, HIT, transfusion, and sickle cell.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Hematology_2026_Podcast.mp3" length="19524141" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-hematology</guid>
+      <pubDate>Fri, 19 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1220</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Geriatric Medicine</title>
+      <description>The spectrum of cognitive impairment and all the dementias, delirium, depression in older adults, falls, disease management including blood pressure and diabetes targets by function, polypharmacy and deprescribing, and vaccinations.</description>
+      <itunes:summary>Dementia, delirium, depression, falls, disease management, polypharmacy, and vaccinations.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Geriatrics_2026_Podcast.mp3" length="15121581" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-geriatrics</guid>
+      <pubDate>Thu, 18 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>945</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Critical Care &amp; Toxicology</title>
+      <description>Shock and sepsis with fluid responsiveness and vasopressors, respiratory failure and ARDS, weaning, sedation and delirium, temperature management, neuroprognostication and determination of death, and a full toxicology run: the general approach, tricyclics, toxic alcohols, salicylates, acetaminophen, the gas toxins, lithium, digoxin, organophosphates, and the hyperthermic toxidromes.</description>
+      <itunes:summary>Shock and sepsis, respiratory failure and ARDS, sedation and delirium, determination of death, and toxicology.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Critical_Care_2026_Podcast.mp3" length="19574829" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-critical-care</guid>
+      <pubDate>Wed, 17 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1223</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>Gastroenterology</title>
       <description>Liver enzyme patterns, hepatitis B and C, alcohol hepatitis, fatty liver disease, cirrhosis and its complications, hemochromatosis, celiac disease, inflammatory bowel disease, G-I bleeding, H. pylori, GERD and Barrett's, dysphagia and achalasia, eosinophilic esophagitis, and pancreatitis.</description>
       <itunes:summary>Liver, intestines, esophagus, and pancreas.</itunes:summary>
-      <enclosure url="https://ibai1017.github.io/impodcasts/Gastroenterology_2026_Podcast.mp3" length="19227309" type="audio/mpeg"/>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Gastroenterology_2026_Podcast.mp3" length="18615213" type="audio/mpeg"/>
       <guid isPermaLink="false">note-gastroenterology</guid>
       <pubDate>Tue, 16 Sep 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>1201</itunes:duration>
+      <itunes:duration>1163</itunes:duration>
       <itunes:episode>5</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -40,10 +88,10 @@
       <title>Respirology</title>
       <description>Asthma diagnosis and the inhaled steroid backbone, COPD by symptoms and exacerbations with triple therapy, smoking cessation, Light's criteria and pleural pH, idiopathic pulmonary fibrosis and antifibrotics, sarcoidosis, pneumothorax, home oxygen, and the hypoxemia and hemoptysis approaches.</description>
       <itunes:summary>Airways disease, pleural and interstitial disease, and core approaches.</itunes:summary>
-      <enclosure url="https://ibai1017.github.io/impodcasts/Respirology_2026_Podcast.mp3" length="20754477" type="audio/mpeg"/>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Respirology_2026_Podcast.mp3" length="19700397" type="audio/mpeg"/>
       <guid isPermaLink="false">note-respirology</guid>
       <pubDate>Mon, 15 Sep 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>1297</itunes:duration>
+      <itunes:duration>1231</itunes:duration>
       <itunes:episode>4</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -52,10 +100,10 @@
       <title>Cardiology</title>
       <description>Stable coronary disease and acute coronary syndromes, antiplatelet durations, heart failure with reduced and non-reduced ejection fraction, devices, hypertrophic cardiomyopathy and amyloid, valve intervention thresholds, aortic dissection and aneurysms, pericardial disease, arrhythmias and anticoagulation, and peripheral arterial disease.</description>
       <itunes:summary>Coronary disease, heart failure, valves, aorta, pericardium, arrhythmias, and PAD.</itunes:summary>
-      <enclosure url="https://ibai1017.github.io/impodcasts/Cardiology_2026_Podcast.mp3" length="31133997" type="audio/mpeg"/>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Cardiology_2026_Podcast.mp3" length="28449837" type="audio/mpeg"/>
       <guid isPermaLink="false">note-cardiology</guid>
       <pubDate>Sun, 14 Sep 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>1945</itunes:duration>
+      <itunes:duration>1778</itunes:duration>
       <itunes:episode>3</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -64,10 +112,10 @@
       <title>Allergy &amp; Immunology</title>
       <description>Anaphylaxis and epinephrine, urticaria and the antihistamine ladder, histamine versus bradykinin angioedema and hereditary angioedema, penicillin allergy and delabeling, pseudoallergic reactions, the drug-rash spectrum from morbilliform to DRESS and Stevens Johnson, common variable immunodeficiency, and bonus mastocytosis and eosinophilia.</description>
       <itunes:summary>Anaphylaxis, urticaria, angioedema, drug allergy and rashes, immunodeficiency, and bonus topics.</itunes:summary>
-      <enclosure url="https://ibai1017.github.io/impodcasts/Allergy_2026_Podcast.mp3" length="11824941" type="audio/mpeg"/>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Allergy_2026_Podcast.mp3" length="10869549" type="audio/mpeg"/>
       <guid isPermaLink="false">note-allergy-immunology</guid>
       <pubDate>Sat, 13 Sep 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>739</itunes:duration>
+      <itunes:duration>679</itunes:duration>
       <itunes:episode>2</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
@@ -76,10 +124,10 @@
       <title>Endocrinology</title>
       <description>Hypercalcemia and the parathyroid workup, MEN syndromes, hyper- and hypothyroidism through thyroid storm and myxedema coma, the 2023 osteoporosis guideline, diabetes end to end, adrenal and pituitary, lipids, and bonus topics.</description>
       <itunes:summary>Hypercalcemia, thyroid, bone, diabetes, adrenal and pituitary, lipids, and bonus topics.</itunes:summary>
-      <enclosure url="https://ibai1017.github.io/impodcasts/Endocrinology_2026_Podcast.mp3" length="25184301" type="audio/mpeg"/>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Endocrinology_2026_Podcast.mp3" length="23096877" type="audio/mpeg"/>
       <guid isPermaLink="false">note-endocrinology</guid>
       <pubDate>Fri, 12 Sep 2026 12:00:00 +0000</pubDate>
-      <itunes:duration>1573</itunes:duration>
+      <itunes:duration>1443</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:explicit>false</itunes:explicit>
     </item>
