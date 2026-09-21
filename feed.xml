@@ -25,6 +25,30 @@
     <atom:link href="https://ibai1017.github.io/impodcasts/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Neurology</title>
+      <description>Stroke in depth (hyperacute ischemic and hemorrhagic management, secondary workup and prevention by mechanism, cerebral venous thrombosis, and the stroke syndromes), multiple sclerosis, movement disorders including tremor and the parkinsonisms, peripheral neuropathy, and ALS. Seizures, headache, and neuromuscular emergencies are in the separate Neuro Emergencies episode.</description>
+      <itunes:summary>Stroke, multiple sclerosis, movement disorders, peripheral neuropathy, and ALS.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Neurology_2026_Podcast.mp3" length="12773421" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-neurology</guid>
+      <pubDate>Mon, 22 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>798</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Nephrology</title>
+      <description>Acid-base disorders with the full stepwise approach, sodium and the ADH classification of hyponatremia, potassium and C-BIG-K, hypertension including secondary causes and emergencies, glomerular disease nephritic and nephrotic, acute kidney injury, and chronic kidney disease progression and its complications.</description>
+      <itunes:summary>Acid-base, sodium, potassium, hypertension, glomerular disease, AKI, and CKD.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Nephrology_2026_Podcast.mp3" length="16008237" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-nephrology</guid>
+      <pubDate>Sun, 21 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1000</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>Infectious Diseases</title>
       <description>A tour of the organ systems: CNS infections and meningitis, infective endocarditis, pneumonia and influenza and COVID, infectious diarrhea and C. difficile, intra-abdominal infections, UTIs, sexually transmitted infections, skin and soft tissue including necrotizing fasciitis, bone and joint infections, HIV, tuberculosis, and the febrile returning traveler and malaria.</description>
       <itunes:summary>Meningitis, endocarditis, pneumonia, diarrhea, UTI, STIs, skin/soft tissue, bone/joint, HIV, TB, and travel.</itunes:summary>
