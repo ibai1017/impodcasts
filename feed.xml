@@ -25,6 +25,30 @@
     <atom:link href="https://ibai1017.github.io/impodcasts/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Oncology &amp; Palliative Care</title>
+      <description>The oncologic emergencies (febrile neutropenia with MASCC, hypercalcemia, tumor lysis, SVC syndrome, malignant bowel obstruction, cord compression, brain metastases, and immune checkpoint toxicity), cancer screening and prevention, solid-tumour and paraneoplastic pearls, and palliative care including performance status, opioid rotation, symptom management, and MAID.</description>
+      <itunes:summary>Oncologic emergencies, cancer screening, paraneoplastic syndromes, and palliative care with opioid rotation and MAID.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Oncology_Palliative_2026_Podcast.mp3" length="11147181" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-oncology-palliative</guid>
+      <pubDate>Wed, 24 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>696</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Obstetric Medicine</title>
+      <description>Internal medicine problems in pregnancy: hypertension and pre-eclampsia with magnesium and aspirin prevention, venous thromboembolism and the pregnancy-adapted workup, thrombocytopenia and anemia, diabetes preconception and gestational, the liver disorders including cholestasis and acute fatty liver, cardiac disease including peripartum cardiomyopathy and arrhythmias, respiratory issues, and pre-pregnancy counselling.</description>
+      <itunes:summary>Hypertension and pre-eclampsia, VTE, thrombocytopenia, diabetes, liver disorders, cardiac and respiratory, and counselling.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Obstetric_Medicine_2026_Podcast.mp3" length="11686317" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-obstetric-medicine</guid>
+      <pubDate>Tue, 23 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>730</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>Neurology</title>
       <description>Stroke in depth (hyperacute ischemic and hemorrhagic management, secondary workup and prevention by mechanism, cerebral venous thrombosis, and the stroke syndromes), multiple sclerosis, movement disorders including tremor and the parkinsonisms, peripheral neuropathy, and ALS. Seizures, headache, and neuromuscular emergencies are in the separate Neuro Emergencies episode.</description>
       <itunes:summary>Stroke, multiple sclerosis, movement disorders, peripheral neuropathy, and ALS.</itunes:summary>
