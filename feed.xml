@@ -25,6 +25,54 @@
     <atom:link href="https://ibai1017.github.io/impodcasts/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
+      <title>Medical Ethics</title>
+      <description>Medical ethics and the applied/oral exam: the general approach to clinical scenarios (differential, SPEDD and ABC-MOIF, treat the unstable patient first), patient-centred communication with FIFE and the social determinants of health, consent and capacity (the four requirements, the reasonable patient standard, the substitute decision maker hierarchy, and refusal of life-saving treatment), fitness to drive (the duty to report and the key seizure, dementia, sleep apnea, vision, and cardiac thresholds), the troubled colleague, end-of-life care including MAID (eligibility, the two tracks, Audrey's amendment, and conscientious objection) and withdrawal versus withholding (Rasouli and the no-CPR order), disclosure of medical error, confidentiality and mandatory reporting, patient safety, and Truth and Reconciliation with the health-care calls to action.</description>
+      <itunes:summary>Applied-exam approach, consent and capacity, the SDM hierarchy, fitness to drive, MAID and withdrawal versus withholding, error disclosure, confidentiality, and Truth and Reconciliation.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Medical_Ethics_2026_Podcast.mp3" length="22032813" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-medical-ethics</guid>
+      <pubDate>Thu, 29 Oct 2026 13:00:00 +0000</pubDate>
+      <itunes:duration>1377</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Neurological Emergencies</title>
+      <description>The acute neurology emergencies: status epilepticus (the 5-minute definition, ABCs with glucose and thiamine, a benzodiazepine plus a loading agent, refractory management, and treating the cause), epilepsy classification and the seizure mimics, acute neuromuscular respiratory failure with the 20-30-40 intubation rule covering myasthenic crisis (including the MuSK pyridostigmine paradox) and Guillain-Barre syndrome, the dangerous secondary headaches via SNOOP (raised intracranial pressure, aneurysmal subarachnoid hemorrhage, cerebral venous thrombosis), migraine treatment and anti-CGRP prevention, spinal cord syndromes and cervical myelopathy, plus the high-yield bonus material: herpes and autoimmune encephalitis, the HINTS exam and Wallenberg syndrome, and checkpoint-inhibitor neurotoxicity.</description>
+      <itunes:summary>Status epilepticus, neuromuscular respiratory failure and the 20-30-40 rule, the dangerous headaches via SNOOP, spinal cord syndromes, encephalitis, and the HINTS exam.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Neurological_Emergencies_2026_Podcast.mp3" length="28896813" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-neurological-emergencies</guid>
+      <pubDate>Thu, 29 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>1806</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Rheumatology</title>
+      <description>The full rheumatology curriculum: the approach to arthritis and synovial fluid analysis, rheumatoid arthritis (classification, anti-CCP, extra-articular disease, and the DMARD ladder with methotrexate and biologic safety), the seronegative spondyloarthropathies, septic, gonococcal and Lyme arthritis, crystal disease (gout with urate-lowering therapy and allopurinol hypersensitivity, and CPPD), lupus and lupus nephritis, antiphospholipid syndrome, Sjogren's, systemic sclerosis with renal crisis, the inflammatory myopathies, the vasculitides (giant cell, PAN, the ANCA-associated group, cryoglobulinemia, and Behcet's), and the autoinflammatory syndromes including Still's and macrophage activation syndrome, closing with the rheumatologic emergencies.</description>
+      <itunes:summary>Arthritis approach, RA and the DMARDs, spondyloarthropathies, crystal disease, lupus and APS, scleroderma and myositis, the vasculitides, and the rheumatologic emergencies.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Rheumatology_2026_Podcast.mp3" length="23811974" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-rheumatology</guid>
+      <pubDate>Fri, 16 Oct 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>2381</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
+      <title>Perioperative Medicine</title>
+      <description>The complete pre-operative assessment: cardiac risk stratification with the RCRI and NT-proBNP (sticking to CCS), postoperative troponin screening and MINS, timing of surgery after recent PCI or stroke, valvular disease and aortic stenosis including low-flow low-gradient, frailty and delirium, perioperative medication management (beta blockers, ASA, statins, RAAS inhibitors, DMARDs and biologics), anticoagulation interruption and bridging with DOAC hold timing, VTE prophylaxis, anemia optimization and TXA, diabetes and stress steroids, respiratory risk and pulmonary hypertension, and surgery in special populations.</description>
+      <itunes:summary>Pre-op cardiac risk and MINS, medication management, anticoagulation and bridging, VTE prophylaxis, diabetes, steroids, and respiratory risk.</itunes:summary>
+      <enclosure url="https://ibai1017.github.io/impodcasts/Perioperative_Medicine_2026_Podcast.mp3" length="27223245" type="audio/mpeg"/>
+      <guid isPermaLink="false">note-perioperative-medicine</guid>
+      <pubDate>Sat, 27 Sep 2026 12:00:00 +0000</pubDate>
+      <itunes:duration>2722</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+
+    <item>
       <title>Oncology &amp; Palliative Care</title>
       <description>The oncologic emergencies (febrile neutropenia with MASCC, hypercalcemia, tumor lysis, SVC syndrome, malignant bowel obstruction, cord compression, brain metastases, and immune checkpoint toxicity), cancer screening and prevention, solid-tumour and paraneoplastic pearls, and palliative care including performance status, opioid rotation, symptom management, and MAID.</description>
       <itunes:summary>Oncologic emergencies, cancer screening, paraneoplastic syndromes, and palliative care with opioid rotation and MAID.</itunes:summary>
